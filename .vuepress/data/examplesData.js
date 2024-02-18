@@ -434,4 +434,10 @@ export default [
     link: "https://zscnb.gitee.io",
     thumbnail: "https://zscnb.gitee.io/bg.png",
   },
+    {
+    name: "码农老杨",
+    desc: "研究新技术的程序猿，主职Java、副职前端，创业交流",
+    link: "https://2024fafa.com",
+    thumbnail: "https://2024fafa.oss-cn-hangzhou.aliyuncs.com/huojian.png",
+  },
 ];
